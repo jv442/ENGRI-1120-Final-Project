@@ -3,7 +3,7 @@ Creative Team: Sebastian Soto, Joan Varous, Ashlyn Dumaw
 
 * Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca NY 14850
 
-Video Description of Project: https://drive.google.com/file/d/1OpxdnSxjYcAGSxvZsK-DGefrjxrorl9b/view?usp=sharing
+Video Description of Project: https://drive.google.com/file/d/1Pk_uNk8pjJz45ncu6jYMnqpEKnVn7rv6/view?usp=sharing
 
 Introduction
 * For our project we had to maximize the output of PGDN using the sugar Xylose. We want to see if this process would be an effective and profitable process.
