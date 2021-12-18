@@ -43,5 +43,11 @@ The reaction process we calculated should look like this:
 
 13)Propane-1,2-diol + 2KNO3 ⇔ PGDN + 2KOH
 
+References
+* Molar masses: https://pubchem.ncbi.nlm.nih.gov/
+* Costs: https://www.sigmaaldrich.com/US/en
+* Density data: https://www.sigmaaldrich.com/US/en/product/sial/398039
+
+
 Conclusion
 * Unfortunately, this process is not profitable. We tested several different sequences of reactions, but the cost of the starting materials proved difficult to overcome, and none of them produced a fruitful outcome.
